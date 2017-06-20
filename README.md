@@ -15,7 +15,7 @@ No s'adjunta documentació, aquesta és pot trobar [al portal del Consorci AOC](
 Es poden indicar múltiples entrades separades per punts i comes `;`. El filtre es case insensitive. Per defecte filtra per les dues opcions. Exemple: `"NR; FD"`.
 
 # End of life
-El *EOL* del Applet es va decidir que fos a principis d'any a data _31 de Maig de 2017_. 
+El *EOL* del Applet a principis d'any es va decidir que fos a data _31 de Maig de 2017_. 
 
 Això és degut a la caiguda en desús dels applets java, degut al seu funcionament poc user-friendly i als coneguts i continus problemes de seguretat. 
 
